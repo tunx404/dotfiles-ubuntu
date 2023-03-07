@@ -7,6 +7,7 @@
 /usr/bin/git --git-dir=$HOME/.dotfiles-ubuntu/ --work-tree=$HOME add .config/qtile
 /usr/bin/git --git-dir=$HOME/.dotfiles-ubuntu/ --work-tree=$HOME add .config/sublime-text/Packages/User
 /usr/bin/git --git-dir=$HOME/.dotfiles-ubuntu/ --work-tree=$HOME add .config/qBittorrent
+/usr/bin/git --git-dir=$HOME/.dotfiles-ubuntu/ --work-tree=$HOME add .config/rofi
 
 /usr/bin/git --git-dir=$HOME/.dotfiles-ubuntu/ --work-tree=$HOME add .scripts
 /usr/bin/git --git-dir=$HOME/.dotfiles-ubuntu/ --work-tree=$HOME add .wallpapers
