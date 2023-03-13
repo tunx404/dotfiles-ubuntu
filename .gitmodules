@@ -1,3 +1,6 @@
 [submodule ".wallpapers/Wide/wallpapers"]
 	path = .wallpapers/Wide/wallpapers
 	url = https://gitlab.com/dwt1/wallpapers.git
+[submodule "SSD2/Applications/Git/dotfiles/.wallpapers/Wide/wallpapers"]
+	path = SSD2/Applications/Git/dotfiles/.wallpapers/Wide/wallpapers
+	url = https://gitlab.com/dwt1/wallpapers.git

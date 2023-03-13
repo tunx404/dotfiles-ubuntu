@@ -35,8 +35,8 @@ alias python='python3'
 
 alias setpem='sudo chown -R anhlh33 ./'
 
-alias exmonitor='xrandr --output HDMI-0 --mode 2560x1440 --pos 1920x0 --rotate normal'
-alias exmonitorfhd='xrandr --output HDMI-0 --mode 1920x1080 --pos 1920x0 --rotate normal'
+alias exmonitor2k='xrandr --output HDMI-0 --mode 2560x1440 --pos 1920x0 --rotate normal'
+alias exmonitor='xrandr --output HDMI-0 --mode 1920x1080 --pos 1920x0 --rotate normal'
 
 ##################################################
 # Reset
