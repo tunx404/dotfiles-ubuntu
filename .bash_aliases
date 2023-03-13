@@ -4,10 +4,8 @@
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles-ubuntu/ --work-tree=$HOME'
 alias dotstatus='dotfiles status'
 
-alias dotadd='~/.scripts/add_dotfiles.sh'
-alias dotpush='~/.scripts/push_dotfiles.sh'
-
-alias dotupdate='cd ~/SSD/Applications/Git/dotfiles && git pull'
+alias adddot='~/.scripts/add_dotfiles.sh'
+alias pushdot='~/.scripts/push_dotfiles.sh'
 
 ##################################################
 # System
